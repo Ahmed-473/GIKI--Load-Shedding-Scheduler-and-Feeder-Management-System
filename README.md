@@ -3,6 +3,10 @@
 ## Short Description
 This project is a Python OOP-based simulation of a fair and priority-based load shedding system for the GIKI campus. It models academic, residential, and utility buildings as power units and generates ON/OFF feeder schedules according to available supply and selected time slots.
 
+## UML Class Diagram
+
+![UML Class Diagram](screenshots/uml_diagram.png)
+
 ## Project Objective
 The main objective of this project is to simulate how load shedding decisions can be automated in a structured and fair way using object-oriented programming. The system is designed to protect important campus buildings according to their type and timing while demonstrating core OOP concepts in a real-world electrical engineering context.
 
